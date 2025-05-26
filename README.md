@@ -1,4 +1,4 @@
-# Dotfiles
+# Ratan's Dotfiles
 
 Personal dotfiles configuration for macOS with Oh My Zsh, zsh-autosuggestions, and essential development tools.
 
