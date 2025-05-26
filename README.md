@@ -9,3 +9,6 @@ git clone https://github.com/ratankaliani/dotfiles ~/.dotfiles
 cd ~/.dotfiles
 ./bin/install
 ```
+
+## Inspiration
+Based off of Ryan Bates' [dotfiles](https://github.com/ryanb/dotfiles).
